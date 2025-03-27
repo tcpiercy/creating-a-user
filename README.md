@@ -3,7 +3,7 @@
 </p>
 
 <h1>Active Directory-Creating User</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines creating a user in Active Directory.<br />
 
 
 
